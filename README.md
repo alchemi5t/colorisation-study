@@ -2,7 +2,7 @@
 
 # Training code for UNET and encoder-decoder model available in respective IPYNBs.
 
-# Deploying Colorization on Flask server
+# Inference Demo: Deploying Colorization on Flask server
 
 - Ensure all dependencies in requirements.txt are met.
 - Python version is > 3.6
